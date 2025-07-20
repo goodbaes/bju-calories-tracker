@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/bju-calories-tracker/static/css/main.31d6cfe0.css",
+    "main.js": "/bju-calories-tracker/static/js/main.cb8b05fb.js",
+    "index.html": "/bju-calories-tracker/index.html",
+    "main.cb8b05fb.js.map": "/bju-calories-tracker/static/js/main.cb8b05fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.cb8b05fb.js"
+  ]
+}
